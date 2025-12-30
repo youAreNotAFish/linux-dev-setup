@@ -37,7 +37,7 @@ generate_packages=(
     htop
     wget
     curl
-    tldr
+    tealdeer  # tldr 的rust实现
     diffutils
     unzip
     # telnet
